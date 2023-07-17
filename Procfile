@@ -1,1 +1,1 @@
-web: bash Dockerfile
+web: Dockerfile
